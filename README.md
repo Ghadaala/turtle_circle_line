@@ -1,1 +1,1 @@
-In this code I wrote a Python Yurtle Code to draw a circle woth line pass it.
+In this code, I wrote a Python Turtle Code to draw a circle with a line pass it.
